@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+    color: rgba(34, 44, 93, 0.709);
+}
+
+h2 {
+    text-align: center;
+}
+
+body {
+    background: rgba(18, 68, 166, 0.312);
+}
+
+input, label, button {
+    display: block;
+}
+
+img {
+    text-align:  center;
+}
